@@ -17,10 +17,10 @@ Mid Game:
 Win Screen:
 
 
-<img src = "Hangman Images/Screen Shot 2020-10-25 at 12.33.06 AM.png>
+<img src = "Hangman Images/Screen Shot 2020-10-25 at 12.33.06 AM.png">
             
        
 Loss Screen:
 
 
-<img src = "Hangman Images/Screen Shot 2020-10-25 at 12.33.22 AM.png>
+<img src = "Hangman Images/Screen Shot 2020-10-25 at 12.33.22 AM.png">
