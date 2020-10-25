@@ -3,4 +3,4 @@ This is a hangman game written in C with 213 different word possibilities, and a
 
 
 Welcome Screen:
-<img src = "Screen Shot 2020-10-25 at 12.30.18 AM.png">
+<img src = "Hangman Images/Screen Shot 2020-10-25 at 12.30.18 AM.png">
